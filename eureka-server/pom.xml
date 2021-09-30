@@ -31,7 +31,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!--  jaxb模块引用 - start java8 一下自带这个模块, java9 需要通过包导入-->
+        <!--  jaxb模块引用 - start java8 一下自带这个模块, java9 需要通过包导入.-->
         <dependency>
             <groupId>javax.xml.bind</groupId>
             <artifactId>jaxb-api</artifactId>
